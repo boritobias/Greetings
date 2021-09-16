@@ -1,7 +1,9 @@
 package org.bori;
 
 public class Greeting {
-    
-    System.out.println("Hello, my name is Bori and I like chess");
+
+    public static void main(String[] args) {
+        System.out.println("Hello, my name is Bori and I like to play chess");
+    }
 
 }
